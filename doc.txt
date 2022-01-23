@@ -1,0 +1,39 @@
+layout
+wrapper/ container / box
+floating
+overflow
+clearfix
+
+
+
+layout
+   
+   float= HTML PART
+   grid = BOOSTRAP PART
+   flex = BOOSTRAP PART
+
+
+   content
+   height: 100px / min-height: 100px (best)
+
+
+height use
+   input
+   button
+   video
+   iframe
+
+
+floting
+     
+     float : none / left / right 
+
+
+
+
+   display property
+
+      block
+      inline
+      inline-block
+      none
